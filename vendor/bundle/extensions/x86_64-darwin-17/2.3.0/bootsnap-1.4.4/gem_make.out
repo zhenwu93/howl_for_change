@@ -1,0 +1,15 @@
+current directory: /Users/Wendy/Development/code/howl_for_change/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/Wendy/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20190708-8733-1dq0ao2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Wendy/Development/code/howl_for_change/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/Wendy/Development/code/howl_for_change/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/Wendy/Development/code/howl_for_change/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20190708-8733-1cf44js/bootsnap
