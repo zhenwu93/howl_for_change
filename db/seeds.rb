@@ -12,7 +12,7 @@ Client.create({ company_name: 'Howl', company_website: 'howl.com', username: 'ho
 
 JobListing.create({ client_id: 1, user_id: 1, job_title: 'logo', job_description: 'help create our logo', compensation: '45-50k', countdown: '5:00', category: 'animals', mediatype: 'video', inspiration: 'lion', rules: 'no killing'})
 
-Project.create({ user_id: 1, link: 'howl.com', category: 'animal abuse', affiliation: 'PETA', region: 'USA', tags: 'animals, abuse, stop'})
+Project.create({ user_id: 1, link: 'howl.com', category: 'animal abuse', affiliation: 'PETA', region: 'USA', tags: 'animals, abuse, stop', title: 'art', description: 'art work'})
 # t.integer "user_id"
 # t.string "link"
 # t.string "category"
